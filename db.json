@@ -1,0 +1,60 @@
+{"coffee":
+    [{
+    "id":"Magazine Luísa Consolação",
+    "name":"abertura da nova unidade",
+    "facilitator":"Kátia de Morais",
+    "date":"02/04",
+    "begins":"17",
+    "ends":"21h",
+    "necessity": {
+        "kind":["coquetel"],
+        "quantity":["40"],
+        "budget":["5.200,00"],
+        "entrepeneur":["Ivone Albuquerque"]
+        },
+    "contact": {
+        "main":"3365 9676",
+        "mobile":"98547 0007",
+        "social":"wwww.blingbling.com.br",
+        "email":"blingbling@gmail.com"
+        },
+    "address": {
+        "street":"Travessa Campos Sales",
+        "number":"300",
+        "complement":"apartamento 08",
+        "CEP":"66021 900",
+        "city":"São Paulo",
+        "neighborhood":"Liberdade",
+        "state":"São Paulo"
+        }
+    },
+    {
+    "id":"IBM Pinheiros",
+    "name":"Cafe de natal",
+    "facilitator":"Ana Claudia",
+    "date":"21/12",
+    "begins":"9h",
+    "ends":"12h",
+    "necessity": {
+        "kind":["cafe completo"],
+        "quantity":["60"],
+        "budget":["6.000,00"],
+        "entrepeneur":["Maitê Gonçalves"]
+    },
+    "contact": {
+        "main":"3295 6554",
+        "mobile":"98243 0904",
+        "social":"wwww.nananana.com.br",
+        "email":"nananana@gmail.com"
+    },
+    "address": {
+        "street":"Brigadeiro Luís Antônio",
+        "number":"120",
+        "complement":"apartamento 54",
+        "CEP":"06502 355",
+        "city":"São Paulo",
+        "neighborhood":"Centro",
+        "state":"São Paulo"
+    }
+    }]
+}
